@@ -56,3 +56,18 @@ C:\projects\hardwareMonitor\src\obj\Debug\hardwareMonitor.csproj.CoreCompileInpu
 C:\projects\hardwareMonitor\src\obj\Debug\hardware.241E22CF.Up2Date
 C:\projects\hardwareMonitor\src\obj\Debug\Hardware Monitor.exe
 C:\projects\hardwareMonitor\src\obj\Debug\Hardware Monitor.pdb
+C:\projects\Hardware-Monitor\src\bin\Debug\Params.json
+C:\projects\Hardware-Monitor\src\bin\Debug\Hardware Monitor.exe.config
+C:\projects\Hardware-Monitor\src\bin\Debug\Hardware Monitor.exe
+C:\projects\Hardware-Monitor\src\bin\Debug\Hardware Monitor.pdb
+C:\projects\Hardware-Monitor\src\bin\Debug\Newtonsoft.Json.dll
+C:\projects\Hardware-Monitor\src\bin\Debug\OpenHardwareMonitorLib.dll
+C:\projects\Hardware-Monitor\src\bin\Debug\Newtonsoft.Json.xml
+C:\projects\Hardware-Monitor\src\obj\Debug\hardwareMonitor.csproj.AssemblyReference.cache
+C:\projects\Hardware-Monitor\src\obj\Debug\hardwareMonitor.Form1.resources
+C:\projects\Hardware-Monitor\src\obj\Debug\hardwareMonitor.Properties.Resources.resources
+C:\projects\Hardware-Monitor\src\obj\Debug\hardwareMonitor.csproj.GenerateResource.cache
+C:\projects\Hardware-Monitor\src\obj\Debug\hardwareMonitor.csproj.CoreCompileInputs.cache
+C:\projects\Hardware-Monitor\src\obj\Debug\hardware.241E22CF.Up2Date
+C:\projects\Hardware-Monitor\src\obj\Debug\Hardware Monitor.exe
+C:\projects\Hardware-Monitor\src\obj\Debug\Hardware Monitor.pdb
