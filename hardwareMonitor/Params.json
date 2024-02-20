@@ -1,0 +1,14 @@
+{
+  "IS_BIG_MODE": false,
+  "GET_CPU_TEMPERATURE": true,
+  "GET_CPU_LOAD": true,
+  "GET_GPU_TEMPERATURE": true,
+  "GET_GPU_LOAD": true,
+  "GET_RAM_USAGE": true,
+  "GET_SSD_TEMPERATURE": true,
+  "DELAY": 1000,
+  "SERIAL_PORT": "COM3",
+  "BAUD_RATE": 9600,
+  "DELAY_MULTIPLE": 1000,
+  "BIG_MODE": false
+}

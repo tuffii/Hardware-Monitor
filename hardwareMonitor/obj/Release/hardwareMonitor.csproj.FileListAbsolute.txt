@@ -1,0 +1,28 @@
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.pdb
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.AssemblyReference.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.GenerateResource.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\hardware.241E22CF.Up2Date
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.pdb
+C:\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.exe.config
+C:\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.exe
+C:\hardwareMonitor\hardwareMonitor\bin\Release\WindowsFormsApp5.pdb
+C:\hardwareMonitor\hardwareMonitor\bin\Release\Newtonsoft.Json.dll
+C:\hardwareMonitor\hardwareMonitor\bin\Release\OpenHardwareMonitorLib.dll
+C:\hardwareMonitor\hardwareMonitor\bin\Release\Newtonsoft.Json.xml
+C:\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.AssemblyReference.cache
+C:\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.Form1.resources
+C:\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.GenerateResource.cache
+C:\hardwareMonitor\hardwareMonitor\obj\Release\hardwareMonitor.csproj.CoreCompileInputs.cache
+C:\hardwareMonitor\hardwareMonitor\obj\Release\hardware.241E22CF.Up2Date
+C:\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.exe
+C:\hardwareMonitor\hardwareMonitor\obj\Release\WindowsFormsApp5.pdb

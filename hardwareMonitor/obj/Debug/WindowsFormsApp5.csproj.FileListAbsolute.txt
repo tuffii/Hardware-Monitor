@@ -1,0 +1,38 @@
+D:\VSCode\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\VSCode\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\VSCode\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\VSCode\WindowsFormsApp5\bin\Debug\OpenHardwareMonitorLib.dll
+D:\VSCode\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsF.E1DB6B00.Up2Date
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsF.E1DB6B00.Up2Date
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudi1\OneDrive\Рабочий стол\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.xml
