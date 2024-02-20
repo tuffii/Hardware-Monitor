@@ -7,8 +7,8 @@
   "GET_RAM_USAGE": true,
   "GET_SSD_TEMPERATURE": true,
   "DELAY": 1000,
-  "SERIAL_PORT": "COM3",
+  "SERIAL_PORT": "COM5",
   "BAUD_RATE": 9600,
   "DELAY_MULTIPLE": 1000,
-  "BIG_MODE": false
+  "BIG_MODE": true
 }

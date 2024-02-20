@@ -13,6 +13,9 @@ namespace hardwareMonitor
         public Form1()
         {
             InitializeComponent();
+            var exePath = AppDomain.CurrentDomain.BaseDirectory;
+            var path = Path.Combine(exePath, "icon.ico");
+            Icon = Icon.ExtractAssociatedIcon(path);
             jsonParser.getParamsFromFile(Parametres.jsonPath);
             SetControlValues();
             hardwareMonitor.Monitor.InitializeMonitor();
@@ -20,8 +23,7 @@ namespace hardwareMonitor
             trayIcon = new NotifyIcon();
             trayIcon.Text = "Hardware Monitor";
 
-            var exePath = AppDomain.CurrentDomain.BaseDirectory;
-            var path = Path.Combine(exePath, "icon.ico");
+            
 
             trayIcon.Icon = new Icon(path);
             trayIcon.Visible = false;
