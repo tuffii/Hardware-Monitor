@@ -12,3 +12,5 @@ screen connection scheme
 application interface
 
 ![image](https://github.com/tuffii/Hardware-Monitor/assets/100721921/91bd7c58-dca6-42f5-88b8-370235bb01cf)
+
+![image](https://github.com/tuffii/Hardware-Monitor/assets/100721921/d867286c-2211-443d-8c47-a72f41403e42)
